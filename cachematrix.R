@@ -1,3 +1,7 @@
+## these two functions allow to undestand scoping in R
+
+
+
 ## This function creates a special "matrix" object that can cache its inverse
 
 
